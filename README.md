@@ -1,6 +1,6 @@
 ![image info](./img/metascapes.jpg)
 Table of Contents
-1.  [What Is MetaScapes](#what-is-metascapes)
+1.  [What Is Carbon Credits for Cars](#what-is-metascapes)
 2.  [What Is a Composite NFT](#what-is-a-composite-nft)
 3.  [Getting Started](#getting-started)
 4.  [How MetaScapes Works](#how-metascapes-works)
