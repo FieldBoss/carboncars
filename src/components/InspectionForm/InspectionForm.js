@@ -264,7 +264,7 @@ const InspectionForm = (props) => {
                     })                 
                 }
             }
-        } 
+        }  
     }
 
     function setCurrentDate() { 
