@@ -2,7 +2,7 @@
 Table of Contents
 1.  [What Is Carbon Credits for Cars](#what-is-carbon-credits-for-cars)
 2.  [Getting Started](#getting-started)
-3.  [How MetaScapes Works](#how-metascapes-works)
+3.  [How Carbon Credits for Cars Works](#how-carbon-credits-for-cars-works)
 4.  [Navigating the UI](#navigating-the-ui)
 5.  [Next Steps](#next-steps)
 6.  [Built With](#built-with)
