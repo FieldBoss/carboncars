@@ -1,23 +1,18 @@
 ![image info](./img/metascapes.jpg)
 Table of Contents
-1.  [What Is Carbon Credits for Cars](#what-is-metascapes)
-2.  [What Is a Composite NFT](#what-is-a-composite-nft)
-3.  [Getting Started](#getting-started)
-4.  [How MetaScapes Works](#how-metascapes-works)
-5.  [Navigating the UI](#navigating-the-ui)
-6.  [Next Steps](#next-steps)
-7.  [Built With](#built-with)
-8.  [Contact](#contact)
+1.  [What Is Carbon Credits for Cars](#what-is-carbon-credits-for-cars)
+2.  [Getting Started](#getting-started)
+3.  [How MetaScapes Works](#how-metascapes-works)
+4.  [Navigating the UI](#navigating-the-ui)
+5.  [Next Steps](#next-steps)
+6.  [Built With](#built-with)
+7.  [Contact](#contact)
 
-What Is MetaScapes
+What is Carbon Credits for Cars
 -----------------
 _**MetaScapes**_ is a prototype concept that explores the idea of bringing composite geo-located NFTs minted on the XRP Ledger into a typical metaverse environment.  Through a browser based viewer these NFTs can be interactively created and visually positioned above the surface at specific locations within a metaverse scene.  Serving as an alternative to owning virtual plots of land in a metaverse, a user can create a 3d pod of any size and altitude consisting of multiple tokenized nodes (NFTs) which collectively define the shape and behavior of the pod.  Each node (token) in the 3d pod has a unique x,y,z location attribute and is a member of the composite NFT that describes the pod as a whole.
 
 View the web application here: https://master.dxvmqmj9eoihk.amplifyapp.com/
-
-What Is a Composite NFT
--------------------------
-_**MetaScapes**_ uses geo-located composite NFTs to visually represent three dimensional shapes (pods) in the metaverse. Being geo-located simply means that each NFT has location geometry associated with it.  A composite NFT can be thought of as a parent token having mulitple related child tokens.  The metadata that describes each child token is stored in the parent token.  With this model, the parent token can represent the group of tokens as a whole (3d pod) and have control over any updates or transactions occurring on the XRP Ledger.  To assure interoperability between metaverse environments, accepted metadata standards are adhered to.  Composite NFTs are analogous to an NFT ecosystem or community.
 
 Getting Started
 ---------------
