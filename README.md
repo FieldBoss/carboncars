@@ -26,7 +26,7 @@ The _**MetaScapes**_ application has been deployed on AWS as a web service avail
     *   Not formatted for mobile phones
 
 
-How MetaScapes Works
+How Carbon Credits for Cars Works
 --------------------
 The project demo is built using React.js and consists of three main components including Mapbox 3d Viewer, XRPL.js, and Ceramic Network.  The application user is presented with a visual interface that allows them to build and view 3d pods (composite NFTs on XRPL testnet) in a metaverse environment.  The steps are as follows:
 
